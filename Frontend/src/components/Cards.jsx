@@ -25,7 +25,7 @@ function Cards({item}) {
 </div>
 </div>
 </>
-  )
+  );
 }
 
 export default Cards
